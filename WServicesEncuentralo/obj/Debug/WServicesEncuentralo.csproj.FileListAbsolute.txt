@@ -1,0 +1,609 @@
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.dll.config
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.pdb
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.exe
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.exe.config
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.rsp
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.exe
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.exe.config
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.rsp
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.AppContext.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Console.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.exe
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.exe.config
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.rsp
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\netstandard.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.AppContext.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.Concurrent.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.NonGeneric.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.Specialized.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Console.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Data.Common.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Contracts.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Debug.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Process.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Tools.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Tracing.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Drawing.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Dynamic.Runtime.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.Calendars.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.Extensions.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Compression.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.IsolatedStorage.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Pipes.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Expressions.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Parallel.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Queryable.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.NameResolution.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.NetworkInformation.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Ping.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Requests.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Security.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Sockets.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebSockets.Client.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebSockets.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.ObjectModel.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.Extensions.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.Reader.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.ResourceManager.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.Writer.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Extensions.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Handles.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.InteropServices.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Numerics.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Claims.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Principal.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.SecureString.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.Encoding.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.RegularExpressions.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Overlapped.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Tasks.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Thread.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.ThreadPool.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Timer.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.ValueTuple.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.ReaderWriter.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XDocument.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XmlDocument.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XmlSerializer.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XPath.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\FSharp.Core.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\Newtonsoft.Json.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\ScrapySharp.Core.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\ScrapySharp.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.Formatting.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Helpers.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.WebHost.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Mvc.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Razor.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Razor.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\FSharp.Core.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.pdb
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Razor.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Razor.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Helpers.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Mvc.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\Newtonsoft.Json.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.Formatting.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.WebHost.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\cs\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\de\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\en\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\fr\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\it\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\ja\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\ko\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\pl\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\pt-BR\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\ru\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\tr\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Http.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csprojAssemblyReference.cache
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csproj.CopyComplete
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.dll
+C:\Users\Camilo Ramirez\source\repos\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.pdb
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.dll.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.pdb
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.rsp
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.rsp
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.AppContext.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Console.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Compression.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Claims.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.ValueTuple.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.rsp
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\VBCSCompiler.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.Win32.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\netstandard.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.AppContext.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.Concurrent.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.NonGeneric.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.Specialized.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Console.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Data.Common.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Contracts.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Debug.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Process.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.StackTrace.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Tools.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.TraceSource.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Tracing.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Drawing.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Dynamic.Runtime.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.Calendars.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Compression.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Compression.ZipFile.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.IsolatedStorage.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Pipes.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Expressions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Parallel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Queryable.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.NameResolution.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.NetworkInformation.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Ping.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Requests.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Security.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Sockets.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebHeaderCollection.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebSockets.Client.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebSockets.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.ObjectModel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.Reader.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.ResourceManager.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.Writer.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Handles.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.InteropServices.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Numerics.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Json.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Claims.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Csp.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Principal.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.SecureString.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.Encoding.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.Encoding.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.RegularExpressions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Overlapped.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Tasks.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Thread.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.ThreadPool.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Timer.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.ValueTuple.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.ReaderWriter.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XmlDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XmlSerializer.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XPath.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XPath.XDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\FSharp.Core.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\Newtonsoft.Json.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\ScrapySharp.Core.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\ScrapySharp.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.Formatting.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Helpers.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.WebHost.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Mvc.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Razor.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Razor.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\FSharp.Core.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.pdb
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Razor.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Razor.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Helpers.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Mvc.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\Newtonsoft.Json.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.Formatting.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.WebHost.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\cs\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\de\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\en\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\fr\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\it\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\ja\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\ko\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\pl\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\pt-BR\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\ru\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\tr\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\zh-Hans\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\zh-Hant\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Razor.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Http.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csprojAssemblyReference.cache
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csproj.CoreCompileInputs.cache
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csproj.CopyComplete
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.pdb
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.dll.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\WServicesEncuentralo.pdb
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csc.rsp
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\csi.rsp
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.AppContext.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Console.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Compression.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Claims.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.ValueTuple.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\vbc.rsp
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\VBCSCompiler.exe
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.Win32.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\netstandard.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.AppContext.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.Concurrent.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.NonGeneric.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Collections.Specialized.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Console.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Data.Common.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Contracts.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Debug.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Process.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.StackTrace.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Tools.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.TraceSource.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Diagnostics.Tracing.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Drawing.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Dynamic.Runtime.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.Calendars.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Globalization.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Compression.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Compression.ZipFile.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.IsolatedStorage.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.Pipes.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Expressions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Parallel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Linq.Queryable.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.NameResolution.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.NetworkInformation.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Ping.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Requests.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Security.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Sockets.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebHeaderCollection.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebSockets.Client.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.WebSockets.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.ObjectModel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Reflection.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.Reader.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.ResourceManager.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Resources.Writer.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Handles.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.InteropServices.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Numerics.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Json.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Claims.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Csp.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.Principal.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Security.SecureString.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.Encoding.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.Encoding.Extensions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Text.RegularExpressions.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Overlapped.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Tasks.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Thread.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.ThreadPool.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Threading.Timer.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.ValueTuple.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.ReaderWriter.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XmlDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XmlSerializer.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XPath.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Xml.XPath.XDocument.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\FSharp.Core.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\Newtonsoft.Json.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\ScrapySharp.Core.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\ScrapySharp.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.Formatting.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Helpers.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.WebHost.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Mvc.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Razor.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Razor.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\FSharp.Core.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.pdb
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\HtmlAgilityPack.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Razor.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Webpages.Razor.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Helpers.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Mvc.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\Newtonsoft.Json.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Net.Http.Formatting.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\System.Web.Http.WebHost.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\cs\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\de\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\en\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\fr\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\it\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\ja\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\ko\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\pl\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\pt-BR\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\ru\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\tr\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\zh-Hans\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\zh-Hant\FSharp.Core.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Razor.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Http.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csprojAssemblyReference.cache
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csproj.CoreCompileInputs.cache
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.csproj.CopyComplete
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.dll
+C:\Users\camilo.ramirez\Documents\Cramirez\Documentos\Personales\Proyecto\WServicesEncuentralo\WServicesEncuentralo\obj\Debug\WServicesEncuentralo.pdb
